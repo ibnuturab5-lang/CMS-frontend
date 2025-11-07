@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`bg-blue-50 p-3`}
+        className={`bg-slate-300`}
       >
         {children}
       </body>
